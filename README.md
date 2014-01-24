@@ -1,4 +1,12 @@
-comp401r2
+Recitation 2
 =========
 
-Recitation 2
+##Java Arrays
+* Bulit right into the language
+* Fixed sized
+* Access with indexing
+
+##Java ArrayList
+* Not bulit-in but a class in the Java libaray
+* Dynamically-sized array
+* Access with methods
