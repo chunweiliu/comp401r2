@@ -10,3 +10,6 @@ Recitation 2
 * Not bulit-in but a class in the Java libaray
 * Dynamically-sized array
 * Access with methods
+
+##Practice
+http://cs.unc.edu/~ajpark/comp401/r2/
